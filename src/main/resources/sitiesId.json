@@ -1,0 +1,2208 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 2835,
+      "country": "Северный Кипр",
+      "country_id": 73,
+      "site_prefix": "northcyprus",
+      "site": "northcyprus.etagi.com",
+      "name": "Northern Cyprus",
+      "bindedCities": [
+        "Girne",
+        "Gazimağusa (Famagusta)",
+        "Iskele (Trikomo)",
+        "Lefkosa (Nicosia)"
+      ]
+    },
+    {
+      "id": 200,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "abakan",
+      "site": "abakan.etagi.com",
+      "name": "Абакан",
+      "bindedCities": []
+    },
+    {
+      "id": 2195,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "aktau",
+      "site": "aktau.etagi.com",
+      "name": "Актау",
+      "bindedCities": []
+    },
+    {
+      "id": 615,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "aktobe",
+      "site": "aktobe.etagi.com",
+      "name": "Актобе",
+      "bindedCities": []
+    },
+    {
+      "id": 2815,
+      "country": "Турция",
+      "country_id": 43,
+      "site_prefix": "alanya",
+      "site": "alanya.etagi.com",
+      "name": "Аланья",
+      "bindedCities": []
+    },
+    {
+      "id": 152,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "alapaevsk",
+      "site": "alapaevsk.etagi.com",
+      "name": "Алапаевск",
+      "bindedCities": []
+    },
+    {
+      "id": 1968,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "alekseevka",
+      "site": "alekseevka.etagi.com",
+      "name": "Алексеевка",
+      "bindedCities": []
+    },
+    {
+      "id": 201,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "almaty",
+      "site": "almaty.etagi.com",
+      "name": "Алматы",
+      "bindedCities": []
+    },
+    {
+      "id": 283,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "almetevsk",
+      "site": "almetevsk.etagi.com",
+      "name": "Альметьевск",
+      "bindedCities": []
+    },
+    {
+      "id": 748,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "anapa",
+      "site": "anapa.etagi.com",
+      "name": "Анапа",
+      "bindedCities": []
+    },
+    {
+      "id": 489,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "angarsk",
+      "site": "angarsk.etagi.com",
+      "name": "Ангарск",
+      "bindedCities": []
+    },
+    {
+      "id": 542,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "anzhero-sudzhensk",
+      "site": "anzhero-sudzhensk.etagi.com",
+      "name": "Анжеро-Судженск",
+      "bindedCities": []
+    },
+    {
+      "id": 2439,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "arsenev",
+      "site": "arsenev.etagi.com",
+      "name": "Арсеньев",
+      "bindedCities": []
+    },
+    {
+      "id": 1338,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "artem",
+      "site": "artem.etagi.com",
+      "name": "Артем",
+      "bindedCities": []
+    },
+    {
+      "id": 202,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "arhangelsk",
+      "site": "arhangelsk.etagi.com",
+      "name": "Архангельск",
+      "bindedCities": [
+        "Новодвинск"
+      ]
+    },
+    {
+      "id": 2793,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "atyrau",
+      "site": "atyrau.etagi.com",
+      "name": "Атырау",
+      "bindedCities": []
+    },
+    {
+      "id": 573,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ach",
+      "site": "ach.etagi.com",
+      "name": "Ачинск",
+      "bindedCities": []
+    },
+    {
+      "id": 2171,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "balashov",
+      "site": "balashov.etagi.com",
+      "name": "Балашов",
+      "bindedCities": []
+    },
+    {
+      "id": 204,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "barnaul",
+      "site": "barnaul.etagi.com",
+      "name": "Барнаул",
+      "bindedCities": []
+    },
+    {
+      "id": 205,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "bel",
+      "site": "bel.etagi.com",
+      "name": "Белгород",
+      "bindedCities": []
+    },
+    {
+      "id": 1299,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "belogorsk",
+      "site": "belogorsk.etagi.com",
+      "name": "Белогорск, Амурская область",
+      "bindedCities": []
+    },
+    {
+      "id": 962,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "belorechensk",
+      "site": "belorechensk.etagi.com",
+      "name": "Белореченск",
+      "bindedCities": []
+    },
+    {
+      "id": 973,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "berdsk",
+      "site": "berdsk.etagi.com",
+      "name": "Бердск",
+      "bindedCities": []
+    },
+    {
+      "id": 206,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "biysk",
+      "site": "biysk.etagi.com",
+      "name": "Бийск",
+      "bindedCities": []
+    },
+    {
+      "id": 2445,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "biryuch",
+      "site": "biryuch.etagi.com",
+      "name": "Бирюч",
+      "bindedCities": []
+    },
+    {
+      "id": 736,
+      "country": "Кыргызстан",
+      "country_id": 17,
+      "site_prefix": "bishkek",
+      "site": "bishkek.etagi.com",
+      "name": "Бишкек",
+      "bindedCities": []
+    },
+    {
+      "id": 207,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "blag",
+      "site": "blag.etagi.com",
+      "name": "Благовещенск",
+      "bindedCities": []
+    },
+    {
+      "id": 1890,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "boganda",
+      "site": "boganda.etagi.com",
+      "name": "Богандинский р.п.",
+      "bindedCities": []
+    },
+    {
+      "id": 2489,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "borovichi",
+      "site": "borovichi.etagi.com",
+      "name": "Боровичи",
+      "bindedCities": []
+    },
+    {
+      "id": 209,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "bryansk",
+      "site": "bryansk.etagi.com",
+      "name": "Брянск",
+      "bindedCities": []
+    },
+    {
+      "id": 1993,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "val",
+      "site": "val.etagi.com",
+      "name": "Валуйки",
+      "bindedCities": []
+    },
+    {
+      "id": 210,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "novgorod",
+      "site": "novgorod.etagi.com",
+      "name": "Великий Новгород",
+      "bindedCities": []
+    },
+    {
+      "id": 2874,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vereya",
+      "site": "vereya.etagi.com",
+      "name": "Верея",
+      "bindedCities": []
+    },
+    {
+      "id": 555,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vsalda",
+      "site": "vsalda.etagi.com",
+      "name": "Верхняя Салда",
+      "bindedCities": []
+    },
+    {
+      "id": 2358,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vilyuchinsk",
+      "site": "vilyuchinsk.etagi.com",
+      "name": "Вилючинск",
+      "bindedCities": []
+    },
+    {
+      "id": 211,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vl",
+      "site": "vl.etagi.com",
+      "name": "Владивосток",
+      "bindedCities": [
+        "Артем"
+      ]
+    },
+    {
+      "id": 212,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vladimir",
+      "site": "vladimir.etagi.com",
+      "name": "Владимир",
+      "bindedCities": []
+    },
+    {
+      "id": 123,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vlg",
+      "site": "vlg.etagi.com",
+      "name": "Волгоград",
+      "bindedCities": []
+    },
+    {
+      "id": 146,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "volzhskiy",
+      "site": "volzhskiy.etagi.com",
+      "name": "Волжский",
+      "bindedCities": []
+    },
+    {
+      "id": 387,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vologda",
+      "site": "vologda.etagi.com",
+      "name": "Вологда",
+      "bindedCities": []
+    },
+    {
+      "id": 2137,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "volokonovka",
+      "site": "volokonovka.etagi.com",
+      "name": "Волоконовка пгт.",
+      "bindedCities": []
+    },
+    {
+      "id": 2512,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "volhov",
+      "site": "volhov.etagi.com",
+      "name": "Волхов",
+      "bindedCities": []
+    },
+    {
+      "id": 213,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "voronezh",
+      "site": "voronezh.etagi.com",
+      "name": "Воронеж",
+      "bindedCities": []
+    },
+    {
+      "id": 316,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "voskresensk",
+      "site": "voskresensk.etagi.com",
+      "name": "Воскресенск",
+      "bindedCities": []
+    },
+    {
+      "id": 1094,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vsevolozhsk",
+      "site": "vsevolozhsk.etagi.com",
+      "name": "Всеволожск",
+      "bindedCities": []
+    },
+    {
+      "id": 2426,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vyksa",
+      "site": "vyksa.etagi.com",
+      "name": "Выкса",
+      "bindedCities": []
+    },
+    {
+      "id": 1154,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "gatchina",
+      "site": "gatchina.etagi.com",
+      "name": "Гатчина",
+      "bindedCities": []
+    },
+    {
+      "id": 429,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "gelendzhik",
+      "site": "gelendzhik.etagi.com",
+      "name": "Геленджик",
+      "bindedCities": []
+    },
+    {
+      "id": 2653,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "georgievsk",
+      "site": "georgievsk.etagi.com",
+      "name": "Георгиевск",
+      "bindedCities": []
+    },
+    {
+      "id": 2278,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "golyshmanovo",
+      "site": "golyshmanovo.etagi.com",
+      "name": "Голышманово р.п.",
+      "bindedCities": []
+    },
+    {
+      "id": 214,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "gorno-altaysk",
+      "site": "gorno-altaysk.etagi.com",
+      "name": "Горно-Алтайск",
+      "bindedCities": []
+    },
+    {
+      "id": 607,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "gk",
+      "site": "gk.etagi.com",
+      "name": "Горячий Ключ",
+      "bindedCities": []
+    },
+    {
+      "id": 1537,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "groz",
+      "site": "groz.etagi.com",
+      "name": "Грозный",
+      "bindedCities": []
+    },
+    {
+      "id": 2798,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "gus-hrustalnyy",
+      "site": "gus-hrustalnyy.etagi.com",
+      "name": "Гусь-Хрустальный",
+      "bindedCities": []
+    },
+    {
+      "id": 2885,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "derbent",
+      "site": "derbent.etagi.com",
+      "name": "Дербент",
+      "bindedCities": []
+    },
+    {
+      "id": 1206,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "dzerzhinsk",
+      "site": "dzerzhinsk.etagi.com",
+      "name": "Дзержинск",
+      "bindedCities": []
+    },
+    {
+      "id": 632,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "dimitrovgrad",
+      "site": "dimitrovgrad.etagi.com",
+      "name": "Димитровград",
+      "bindedCities": []
+    },
+    {
+      "id": 2040,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "dmitrov",
+      "site": "dmitrov.etagi.com",
+      "name": "Дмитров",
+      "bindedCities": []
+    },
+    {
+      "id": 2111,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "domodedovo",
+      "site": "domodedovo.etagi.com",
+      "name": "Домодедово",
+      "bindedCities": []
+    },
+    {
+      "id": 2863,
+      "country": "ОАЭ",
+      "country_id": 35,
+      "site_prefix": "dubai",
+      "site": "dubai.etagi.com",
+      "name": "Дубай",
+      "bindedCities": []
+    },
+    {
+      "id": 1026,
+      "country": "Таджикистан",
+      "country_id": 59,
+      "site_prefix": "dushanbe",
+      "site": "dushanbe.etagi.com",
+      "name": "Душанбе",
+      "bindedCities": []
+    },
+    {
+      "id": 1420,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "evpatoria",
+      "site": "evpatoria.etagi.com",
+      "name": "Евпатория",
+      "bindedCities": []
+    },
+    {
+      "id": 1193,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "eysk",
+      "site": "eysk.etagi.com",
+      "name": "Ейск",
+      "bindedCities": []
+    },
+    {
+      "id": 45,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ekb",
+      "site": "ekb.etagi.com",
+      "name": "Екатеринбург",
+      "bindedCities": [
+        "Верхняя Пышма"
+      ]
+    },
+    {
+      "id": 2357,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "elizovo",
+      "site": "elizovo.etagi.com",
+      "name": "Елизово",
+      "bindedCities": []
+    },
+    {
+      "id": 2639,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "essentuki",
+      "site": "essentuki.etagi.com",
+      "name": "Ессентуки",
+      "bindedCities": []
+    },
+    {
+      "id": 2494,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "efremov",
+      "site": "efremov.etagi.com",
+      "name": "Ефремов",
+      "bindedCities": []
+    },
+    {
+      "id": 2655,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "zheleznovodsk",
+      "site": "zheleznovodsk.etagi.com",
+      "name": "Железноводск",
+      "bindedCities": []
+    },
+    {
+      "id": 24,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "zavodoukovsk",
+      "site": "zavodoukovsk.etagi.com",
+      "name": "Заводоуковск",
+      "bindedCities": []
+    },
+    {
+      "id": 954,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "zvenigorod",
+      "site": "zvenigorod.etagi.com",
+      "name": "Звенигород",
+      "bindedCities": []
+    },
+    {
+      "id": 696,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "zelenogorsk",
+      "site": "zelenogorsk.etagi.com",
+      "name": "Зеленогорск",
+      "bindedCities": [
+        "Бородино",
+        "Заозерный",
+        "Уяр"
+      ]
+    },
+    {
+      "id": 1061,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "zlatoust",
+      "site": "zlatoust.etagi.com",
+      "name": "Златоуст",
+      "bindedCities": []
+    },
+    {
+      "id": 216,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ivanovo",
+      "site": "ivanovo.etagi.com",
+      "name": "Иваново",
+      "bindedCities": []
+    },
+    {
+      "id": 2795,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "iglino",
+      "site": "iglino.etagi.com",
+      "name": "Иглино",
+      "bindedCities": []
+    },
+    {
+      "id": 189,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "izh",
+      "site": "izh.etagi.com",
+      "name": "Ижевск",
+      "bindedCities": [
+        "Можга"
+      ]
+    },
+    {
+      "id": 341,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "irbit",
+      "site": "irbit.etagi.com",
+      "name": "Ирбит",
+      "bindedCities": []
+    },
+    {
+      "id": 184,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "irk",
+      "site": "irk.etagi.com",
+      "name": "Иркутск",
+      "bindedCities": []
+    },
+    {
+      "id": 27,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ishim",
+      "site": "ishim.etagi.com",
+      "name": "Ишим",
+      "bindedCities": [
+        "Абатское с."
+      ]
+    },
+    {
+      "id": 217,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "yoshkar-ola",
+      "site": "yoshkar-ola.etagi.com",
+      "name": "Йошкар-Ола",
+      "bindedCities": []
+    },
+    {
+      "id": 180,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kazan",
+      "site": "kazan.etagi.com",
+      "name": "Казань",
+      "bindedCities": []
+    },
+    {
+      "id": 218,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kaliningrad",
+      "site": "kaliningrad.etagi.com",
+      "name": "Калининград",
+      "bindedCities": []
+    },
+    {
+      "id": 219,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kaluga",
+      "site": "kaluga.etagi.com",
+      "name": "Калуга",
+      "bindedCities": []
+    },
+    {
+      "id": 305,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kamyshlov",
+      "site": "kamyshlov.etagi.com",
+      "name": "Камышлов",
+      "bindedCities": []
+    },
+    {
+      "id": 2521,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "karabulak",
+      "site": "karabulak.etagi.com",
+      "name": "Карабулак",
+      "bindedCities": []
+    },
+    {
+      "id": 220,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kem",
+      "site": "kem.etagi.com",
+      "name": "Кемерово",
+      "bindedCities": []
+    },
+    {
+      "id": 2514,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kirishi",
+      "site": "kirishi.etagi.com",
+      "name": "Кириши",
+      "bindedCities": []
+    },
+    {
+      "id": 221,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kirov",
+      "site": "kirov.etagi.com",
+      "name": "Киров",
+      "bindedCities": []
+    },
+    {
+      "id": 2650,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kislovodsk",
+      "site": "kislovodsk.etagi.com",
+      "name": "Кисловодск",
+      "bindedCities": []
+    },
+    {
+      "id": 2324,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "klin",
+      "site": "klin.etagi.com",
+      "name": "Клин",
+      "bindedCities": []
+    },
+    {
+      "id": 2817,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kovrov",
+      "site": "kovrov.etagi.com",
+      "name": "Ковров",
+      "bindedCities": []
+    },
+    {
+      "id": 278,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kogalym",
+      "site": "kogalym.etagi.com",
+      "name": "Когалым",
+      "bindedCities": []
+    },
+    {
+      "id": 605,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "kokshetau",
+      "site": "kokshetau.etagi.com",
+      "name": "Кокшетау",
+      "bindedCities": []
+    },
+    {
+      "id": 2390,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kolomna",
+      "site": "kolomna.etagi.com",
+      "name": "Коломна",
+      "bindedCities": []
+    },
+    {
+      "id": 1113,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kna",
+      "site": "kna.etagi.com",
+      "name": "Комсомольск-на-Амуре",
+      "bindedCities": []
+    },
+    {
+      "id": 2443,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "korocha",
+      "site": "korocha.etagi.com",
+      "name": "Короча",
+      "bindedCities": []
+    },
+    {
+      "id": 2225,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "korsakov",
+      "site": "korsakov.etagi.com",
+      "name": "Корсаков",
+      "bindedCities": []
+    },
+    {
+      "id": 2851,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "koryazhma",
+      "site": "koryazhma.etagi.com",
+      "name": "Коряжма",
+      "bindedCities": []
+    },
+    {
+      "id": 2256,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "kostanay",
+      "site": "kostanay.etagi.com",
+      "name": "Костанай",
+      "bindedCities": []
+    },
+    {
+      "id": 867,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kosterevo",
+      "site": "kosterevo.etagi.com",
+      "name": "Костерево",
+      "bindedCities": []
+    },
+    {
+      "id": 222,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kostroma",
+      "site": "kostroma.etagi.com",
+      "name": "Кострома",
+      "bindedCities": [
+        "Нерехта"
+      ]
+    },
+    {
+      "id": 2074,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kotlas",
+      "site": "kotlas.etagi.com",
+      "name": "Котлас",
+      "bindedCities": []
+    },
+    {
+      "id": 223,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "krasnodar",
+      "site": "krasnodar.etagi.com",
+      "name": "Краснодар",
+      "bindedCities": []
+    },
+    {
+      "id": 224,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kras",
+      "site": "kras.etagi.com",
+      "name": "Красноярск",
+      "bindedCities": [
+        "Сосновоборск"
+      ]
+    },
+    {
+      "id": 2886,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kulebaki",
+      "site": "kulebaki.etagi.com",
+      "name": "Кулебаки",
+      "bindedCities": []
+    },
+    {
+      "id": 1393,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kumertau",
+      "site": "kumertau.etagi.com",
+      "name": "Кумертау",
+      "bindedCities": []
+    },
+    {
+      "id": 151,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kurgan",
+      "site": "kurgan.etagi.com",
+      "name": "Курган",
+      "bindedCities": []
+    },
+    {
+      "id": 225,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kursk",
+      "site": "kursk.etagi.com",
+      "name": "Курск",
+      "bindedCities": []
+    },
+    {
+      "id": 2534,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "kusa",
+      "site": "kusa.etagi.com",
+      "name": "Куса",
+      "bindedCities": []
+    },
+    {
+      "id": 226,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "leninsk-kuznetskiy",
+      "site": "leninsk-kuznetskiy.etagi.com",
+      "name": "Ленинск-Кузнецкий",
+      "bindedCities": []
+    },
+    {
+      "id": 2654,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "lermontov",
+      "site": "lermontov.etagi.com",
+      "name": "Лермонтов",
+      "bindedCities": []
+    },
+    {
+      "id": 227,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "lipetsk",
+      "site": "lipetsk.etagi.com",
+      "name": "Липецк",
+      "bindedCities": [
+        "Грязи"
+      ]
+    },
+    {
+      "id": 2491,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "magas",
+      "site": "magas.etagi.com",
+      "name": "Магас",
+      "bindedCities": []
+    },
+    {
+      "id": 228,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "magnitogorsk",
+      "site": "magnitogorsk.etagi.com",
+      "name": "Магнитогорск",
+      "bindedCities": []
+    },
+    {
+      "id": 2638,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "maykop",
+      "site": "maykop.etagi.com",
+      "name": "Майкоп",
+      "bindedCities": []
+    },
+    {
+      "id": 395,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "mahachkala",
+      "site": "mahachkala.etagi.com",
+      "name": "Махачкала",
+      "bindedCities": []
+    },
+    {
+      "id": 76,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "megion",
+      "site": "megion.etagi.com",
+      "name": "Мегион",
+      "bindedCities": []
+    },
+    {
+      "id": 386,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "mezhdurechensk",
+      "site": "mezhdurechensk.etagi.com",
+      "name": "Междуреченск",
+      "bindedCities": []
+    },
+    {
+      "id": 1478,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "meleuz",
+      "site": "meleuz.etagi.com",
+      "name": "Мелеуз",
+      "bindedCities": []
+    },
+    {
+      "id": 694,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "miass",
+      "site": "miass.etagi.com",
+      "name": "Миасс",
+      "bindedCities": []
+    },
+    {
+      "id": 2656,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "mineralnye-vody",
+      "site": "mineralnye-vody.etagi.com",
+      "name": "Минеральные Воды",
+      "bindedCities": []
+    },
+    {
+      "id": 1066,
+      "country": "Беларусь",
+      "country_id": 3,
+      "site_prefix": "minsk",
+      "site": "minsk.etagi.com",
+      "name": "Минск",
+      "bindedCities": []
+    },
+    {
+      "id": 293,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "minusinsk",
+      "site": "minusinsk.etagi.com\r\n",
+      "name": "Минусинск"
+    },
+    {
+      "id": 2796,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "michurinsk",
+      "site": "michurinsk.etagi.com",
+      "name": "Мичуринск",
+      "bindedCities": []
+    },
+    {
+      "id": 155,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "msk",
+      "site": "msk.etagi.com",
+      "name": "Москва",
+      "bindedCities": [
+        "Московская область",
+        "Калуга",
+        "Одинцово"
+      ]
+    },
+    {
+      "id": 832,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "murom",
+      "site": "murom.etagi.com",
+      "name": "Муром",
+      "bindedCities": []
+    },
+    {
+      "id": 230,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "chelny",
+      "site": "chelny.etagi.com",
+      "name": "Набережные Челны",
+      "bindedCities": [
+        "Елабуга"
+      ]
+    },
+    {
+      "id": 80,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "nadym",
+      "site": "nadym.etagi.com",
+      "name": "Надым",
+      "bindedCities": []
+    },
+    {
+      "id": 2437,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "nazran",
+      "site": "nazran.etagi.com",
+      "name": "Назрань",
+      "bindedCities": [
+        "Магас",
+        "Карабулак"
+      ]
+    },
+    {
+      "id": 2592,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "nalchik",
+      "site": "nalchik.etagi.com",
+      "name": "Нальчик",
+      "bindedCities": []
+    },
+    {
+      "id": 2410,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "naro-fominsk",
+      "site": "naro-fominsk.etagi.com",
+      "name": "Наро-Фоминск",
+      "bindedCities": []
+    },
+    {
+      "id": 1115,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "nevinnomyssk",
+      "site": "nevinnomyssk.etagi.com",
+      "name": "Невинномысск",
+      "bindedCities": []
+    },
+    {
+      "id": 2837,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "neftekamsk",
+      "site": "neftekamsk.etagi.com",
+      "name": "Нефтекамск",
+      "bindedCities": []
+    },
+    {
+      "id": 95,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ugansk",
+      "site": "ugansk.etagi.com",
+      "name": "Нефтеюганск",
+      "bindedCities": [
+        "Пойковский пгт."
+      ]
+    },
+    {
+      "id": 66,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "vartovsk",
+      "site": "vartovsk.etagi.com",
+      "name": "Нижневартовск",
+      "bindedCities": [
+        "Мегион"
+      ]
+    },
+    {
+      "id": 232,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "nn",
+      "site": "nn.etagi.com",
+      "name": "Нижний Новгород",
+      "bindedCities": [
+        "Нижегородская область"
+      ]
+    },
+    {
+      "id": 2388,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "novodvinsk",
+      "site": "novodvinsk.etagi.com",
+      "name": "Новодвинск",
+      "bindedCities": []
+    },
+    {
+      "id": 233,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "nk",
+      "site": "nk.etagi.com",
+      "name": "Новокузнецк",
+      "bindedCities": []
+    },
+    {
+      "id": 234,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "novoros",
+      "site": "novoros.etagi.com",
+      "name": "Новороссийск",
+      "bindedCities": []
+    },
+    {
+      "id": 135,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "novosibirsk",
+      "site": "novosibirsk.etagi.com",
+      "name": "Новосибирск",
+      "bindedCities": [
+        "Бердск"
+      ]
+    },
+    {
+      "id": 335,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "novouralsk",
+      "site": "novouralsk.etagi.com",
+      "name": "Новоуральск",
+      "bindedCities": []
+    },
+    {
+      "id": 1971,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "novyy-oskol",
+      "site": "novyy-oskol.etagi.com",
+      "name": "Новый Оскол",
+      "bindedCities": []
+    },
+    {
+      "id": 86,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "n-urengoy",
+      "site": "n-urengoy.etagi.com",
+      "name": "Новый Уренгой",
+      "bindedCities": []
+    },
+    {
+      "id": 235,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "norilsk",
+      "site": "norilsk.etagi.com",
+      "name": "Норильск",
+      "bindedCities": [
+        "Дудинка, Красноярский край"
+      ]
+    },
+    {
+      "id": 577,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "astana",
+      "site": "astana.etagi.com",
+      "name": "Нур-Султан",
+      "bindedCities": []
+    },
+    {
+      "id": 990,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "obninsk",
+      "site": "obninsk.etagi.com",
+      "name": "Обнинск",
+      "bindedCities": []
+    },
+    {
+      "id": 985,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ozersk",
+      "site": "ozersk.etagi.com",
+      "name": "Озерск",
+      "bindedCities": []
+    },
+    {
+      "id": 950,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "oktyabrskiy",
+      "site": "oktyabrskiy.etagi.com",
+      "name": "Октябрьский",
+      "bindedCities": []
+    },
+    {
+      "id": 85,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "omsk",
+      "site": "omsk.etagi.com",
+      "name": "Омск",
+      "bindedCities": []
+    },
+    {
+      "id": 187,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "orenburg",
+      "site": "orenburg.etagi.com",
+      "name": "Оренбург",
+      "bindedCities": []
+    },
+    {
+      "id": 2475,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "orehovo-zuevo",
+      "site": "orehovo-zuevo.etagi.com",
+      "name": "Орехово-Зуево",
+      "bindedCities": []
+    },
+    {
+      "id": 176,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "orel",
+      "site": "orel.etagi.com",
+      "name": "Орёл",
+      "bindedCities": []
+    },
+    {
+      "id": 499,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "pavlodar",
+      "site": "pavlodar.etagi.com",
+      "name": "Павлодар",
+      "bindedCities": [
+        "Аксу"
+      ]
+    },
+    {
+      "id": 237,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "pnz",
+      "site": "pnz.etagi.com",
+      "name": "Пенза",
+      "bindedCities": []
+    },
+    {
+      "id": 238,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "perm",
+      "site": "perm.etagi.com",
+      "name": "Пермь",
+      "bindedCities": []
+    },
+    {
+      "id": 239,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ptz",
+      "site": "ptz.etagi.com",
+      "name": "Петрозаводск",
+      "bindedCities": []
+    },
+    {
+      "id": 598,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "petropavlovsk",
+      "site": "petropavlovsk.etagi.com",
+      "name": "Петропавловск",
+      "bindedCities": []
+    },
+    {
+      "id": 339,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "petropavlovsk-kamchatskiy",
+      "site": "petropavlovsk-kamchatskiy.etagi.com",
+      "name": "Петропавловск-Камчатский",
+      "bindedCities": [
+        "Вилючинск",
+        "Елизово"
+      ]
+    },
+    {
+      "id": 2268,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "petushki",
+      "site": "petushki.etagi.com",
+      "name": "Петушки",
+      "bindedCities": []
+    },
+    {
+      "id": 1899,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "podolsk",
+      "site": "podolsk.etagi.com",
+      "name": "Подольск",
+      "bindedCities": []
+    },
+    {
+      "id": 2261,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "pokrov",
+      "site": "pokrov.etagi.com",
+      "name": "Покров",
+      "bindedCities": [
+        "Киржач",
+        "Петушки",
+        "Костерево"
+      ]
+    },
+    {
+      "id": 286,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "prokopevsk",
+      "site": "prokopevsk.etagi.com",
+      "name": "Прокопьевск",
+      "bindedCities": []
+    },
+    {
+      "id": 2398,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "prohladnyy",
+      "site": "prohladnyy.etagi.com",
+      "name": "Прохладный",
+      "bindedCities": []
+    },
+    {
+      "id": 1693,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "pskov",
+      "site": "pskov.etagi.com",
+      "name": "Псков",
+      "bindedCities": [
+        "Псковская область"
+      ]
+    },
+    {
+      "id": 73,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "pyt-yah",
+      "site": "pyt-yah.etagi.com",
+      "name": "Пыть-Ях",
+      "bindedCities": []
+    },
+    {
+      "id": 819,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "pyatigorsk",
+      "site": "pyatigorsk.etagi.com",
+      "name": "Пятигорск",
+      "bindedCities": [
+        "Ессентуки",
+        "Кисловодск",
+        "Георгиевск",
+        "Лермонтов",
+        "Железноводск",
+        "Минеральные Воды"
+      ]
+    },
+    {
+      "id": 2735,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "rakitnoe",
+      "site": "rakitnoe.etagi.com",
+      "name": "Ракитное",
+      "bindedCities": []
+    },
+    {
+      "id": 620,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ramenskoe",
+      "site": "ramenskoe.etagi.com",
+      "name": "Раменское, Московская обл.",
+      "bindedCities": []
+    },
+    {
+      "id": 190,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "rostov-na-donu",
+      "site": "rostov-na-donu.etagi.com",
+      "name": "Ростов-на-Дону",
+      "bindedCities": []
+    },
+    {
+      "id": 240,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ryazan",
+      "site": "ryazan.etagi.com",
+      "name": "Рязань",
+      "bindedCities": [
+        "Рязанская область"
+      ]
+    },
+    {
+      "id": 2428,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "saki",
+      "site": "saki.etagi.com",
+      "name": "Саки",
+      "bindedCities": []
+    },
+    {
+      "id": 1487,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "salavat",
+      "site": "salavat.etagi.com",
+      "name": "Салават",
+      "bindedCities": [
+        "Ишимбай"
+      ]
+    },
+    {
+      "id": 83,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "salehard",
+      "site": "salehard.etagi.com",
+      "name": "Салехард",
+      "bindedCities": [
+        "Лабытнанги"
+      ]
+    },
+    {
+      "id": 301,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "samara",
+      "site": "samara.etagi.com",
+      "name": "Самара",
+      "bindedCities": []
+    },
+    {
+      "id": 242,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "spb",
+      "site": "spb.etagi.com",
+      "name": "Санкт-Петербург",
+      "bindedCities": [
+        "Ленинградская область",
+        "Всеволожск",
+        "Гатчина"
+      ]
+    },
+    {
+      "id": 243,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "saransk",
+      "site": "saransk.etagi.com",
+      "name": "Саранск",
+      "bindedCities": []
+    },
+    {
+      "id": 140,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "saratov",
+      "site": "saratov.etagi.com",
+      "name": "Саратов",
+      "bindedCities": []
+    },
+    {
+      "id": 2539,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "satka",
+      "site": "satka.etagi.com",
+      "name": "Сатка",
+      "bindedCities": []
+    },
+    {
+      "id": 940,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "svob",
+      "site": "svob.etagi.com",
+      "name": "Свободный",
+      "bindedCities": []
+    },
+    {
+      "id": 327,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sevastopol",
+      "site": "sevastopol.etagi.com",
+      "name": "Севастополь",
+      "bindedCities": []
+    },
+    {
+      "id": 1797,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sev",
+      "site": "sev.etagi.com",
+      "name": "Северодвинск",
+      "bindedCities": []
+    },
+    {
+      "id": 403,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "seversk",
+      "site": "seversk.etagi.com",
+      "name": "Северск",
+      "bindedCities": []
+    },
+    {
+      "id": 501,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "semey",
+      "site": "semey.etagi.com",
+      "name": "Семей",
+      "bindedCities": []
+    },
+    {
+      "id": 761,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sergiev-posad",
+      "site": "sergiev-posad.etagi.com",
+      "name": "Сергиев Посад",
+      "bindedCities": []
+    },
+    {
+      "id": 774,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "simf",
+      "site": "simf.etagi.com",
+      "name": "Симферополь",
+      "bindedCities": []
+    },
+    {
+      "id": 2636,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "slavyansk-na-kubani",
+      "site": "slavyansk-na-kubani.etagi.com",
+      "name": "Славянск-на-Кубани",
+      "bindedCities": []
+    },
+    {
+      "id": 244,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "smolensk",
+      "site": "smolensk.etagi.com",
+      "name": "Смоленск",
+      "bindedCities": []
+    },
+    {
+      "id": 2389,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sosnovoborsk",
+      "site": "sosnovoborsk.etagi.com",
+      "name": "Сосновоборск",
+      "bindedCities": []
+    },
+    {
+      "id": 1929,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sosnogorsk",
+      "site": "sosnogorsk.etagi.com",
+      "name": "Сосногорск",
+      "bindedCities": []
+    },
+    {
+      "id": 199,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sochi",
+      "site": "sochi.etagi.com",
+      "name": "Сочи",
+      "bindedCities": []
+    },
+    {
+      "id": 141,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "stav",
+      "site": "stav.etagi.com",
+      "name": "Ставрополь",
+      "bindedCities": []
+    },
+    {
+      "id": 2499,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "staraya-russa",
+      "site": "staraya-russa.etagi.com",
+      "name": "Старая Русса",
+      "bindedCities": []
+    },
+    {
+      "id": 245,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "staryy-oskol",
+      "site": "staryy-oskol.etagi.com",
+      "name": "Старый Оскол",
+      "bindedCities": []
+    },
+    {
+      "id": 246,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sterlitamak",
+      "site": "sterlitamak.etagi.com",
+      "name": "Стерлитамак",
+      "bindedCities": []
+    },
+    {
+      "id": 74,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "surgut",
+      "site": "surgut.etagi.com",
+      "name": "Сургут",
+      "bindedCities": []
+    },
+    {
+      "id": 247,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sykt",
+      "site": "sykt.etagi.com",
+      "name": "Сыктывкар",
+      "bindedCities": []
+    },
+    {
+      "id": 2395,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "taganrog",
+      "site": "taganrog.etagi.com",
+      "name": "Таганрог",
+      "bindedCities": []
+    },
+    {
+      "id": 59,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "talica",
+      "site": "talica.etagi.com",
+      "name": "Талица",
+      "bindedCities": []
+    },
+    {
+      "id": 248,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "tambov",
+      "site": "tambov.etagi.com",
+      "name": "Тамбов",
+      "bindedCities": []
+    },
+    {
+      "id": 2549,
+      "country": "Узбекистан",
+      "country_id": 52,
+      "site_prefix": "tashkent",
+      "site": "tashkent.etagi.com",
+      "name": "Ташкент",
+      "bindedCities": []
+    },
+    {
+      "id": 249,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "tver",
+      "site": "tver.etagi.com",
+      "name": "Тверь",
+      "bindedCities": []
+    },
+    {
+      "id": 2394,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "temryuk",
+      "site": "temryuk.etagi.com",
+      "name": "Темрюк",
+      "bindedCities": []
+    },
+    {
+      "id": 28,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "tobolsk",
+      "site": "tobolsk.etagi.com",
+      "name": "Тобольск",
+      "bindedCities": []
+    },
+    {
+      "id": 251,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "tomsk",
+      "site": "tomsk.etagi.com",
+      "name": "Томск",
+      "bindedCities": []
+    },
+    {
+      "id": 2765,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "tuapse",
+      "site": "tuapse.etagi.com",
+      "name": "Туапсе",
+      "bindedCities": []
+    },
+    {
+      "id": 792,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "tmz",
+      "site": "tmz.etagi.com",
+      "name": "Туймазы",
+      "bindedCities": []
+    },
+    {
+      "id": 178,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "tula",
+      "site": "tula.etagi.com",
+      "name": "Тула",
+      "bindedCities": []
+    },
+    {
+      "id": 23,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "www",
+      "site": "www.etagi.com",
+      "name": "Тюмень",
+      "bindedCities": [
+        "Богандинский р.п."
+      ]
+    },
+    {
+      "id": 519,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ulan-ude",
+      "site": "ulan-ude.etagi.com",
+      "name": "Улан-Удэ",
+      "bindedCities": []
+    },
+    {
+      "id": 252,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ul",
+      "site": "ul.etagi.com",
+      "name": "Ульяновск",
+      "bindedCities": []
+    },
+    {
+      "id": 330,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "usinsk",
+      "site": "usinsk.etagi.com",
+      "name": "Усинск",
+      "bindedCities": []
+    },
+    {
+      "id": 407,
+      "country": "Казахстан",
+      "country_id": 2,
+      "site_prefix": "ust-kamenogorsk",
+      "site": "ust-kamenogorsk.etagi.com",
+      "name": "Усть-Каменогорск",
+      "bindedCities": []
+    },
+    {
+      "id": 254,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ufa",
+      "site": "ufa.etagi.com",
+      "name": "Уфа",
+      "bindedCities": []
+    },
+    {
+      "id": 1927,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "ukhta",
+      "site": "ukhta.etagi.com",
+      "name": "Ухта",
+      "bindedCities": [
+        "Усинск",
+        "Печора",
+        "Сосногорск"
+      ]
+    },
+    {
+      "id": 1709,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "feodosia",
+      "site": "feodosia.etagi.com",
+      "name": "Феодосия",
+      "bindedCities": []
+    },
+    {
+      "id": 255,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "khabarovsk",
+      "site": "khabarovsk.etagi.com",
+      "name": "Хабаровск",
+      "bindedCities": []
+    },
+    {
+      "id": 47,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "khm",
+      "site": "khm.etagi.com",
+      "name": "Ханты-Мансийск",
+      "bindedCities": []
+    },
+    {
+      "id": 717,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "chebarkul",
+      "site": "chebarkul.etagi.com",
+      "name": "Чебаркуль",
+      "bindedCities": []
+    },
+    {
+      "id": 256,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "cheboksary",
+      "site": "cheboksary.etagi.com",
+      "name": "Чебоксары",
+      "bindedCities": []
+    },
+    {
+      "id": 91,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "chel",
+      "site": "chel.etagi.com",
+      "name": "Челябинск",
+      "bindedCities": []
+    },
+    {
+      "id": 1312,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "cher",
+      "site": "cher.etagi.com",
+      "name": "Череповец",
+      "bindedCities": []
+    },
+    {
+      "id": 2797,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "cherkessk",
+      "site": "cherkessk.etagi.com",
+      "name": "Черкесск",
+      "bindedCities": []
+    },
+    {
+      "id": 1563,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "chernogorsk",
+      "site": "chernogorsk.etagi.com",
+      "name": "Черногорск",
+      "bindedCities": []
+    },
+    {
+      "id": 257,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "chita",
+      "site": "chita.etagi.com",
+      "name": "Чита",
+      "bindedCities": []
+    },
+    {
+      "id": 132,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "shadrinsk",
+      "site": "shadrinsk.etagi.com",
+      "name": "Шадринск",
+      "bindedCities": []
+    },
+    {
+      "id": 1928,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sheksna",
+      "site": "sheksna.etagi.com",
+      "name": "Шексна",
+      "bindedCities": []
+    },
+    {
+      "id": 1824,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "elektrostal",
+      "site": "elektrostal.etagi.com",
+      "name": "Электросталь",
+      "bindedCities": []
+    },
+    {
+      "id": 2427,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "elista",
+      "site": "elista.etagi.com",
+      "name": "Элиста",
+      "bindedCities": []
+    },
+    {
+      "id": 1105,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "engels",
+      "site": "engels.etagi.com",
+      "name": "Энгельс",
+      "bindedCities": []
+    },
+    {
+      "id": 192,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "sakhalin",
+      "site": "sakhalin.etagi.com",
+      "name": "Южно-Сахалинск",
+      "bindedCities": []
+    },
+    {
+      "id": 816,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "yuzhnouralsk",
+      "site": "yuzhnouralsk.etagi.com",
+      "name": "Южноуральск",
+      "bindedCities": []
+    },
+    {
+      "id": 383,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "urga",
+      "site": "urga.etagi.com",
+      "name": "Юрга",
+      "bindedCities": []
+    },
+    {
+      "id": 258,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "yakutsk",
+      "site": "yakutsk.etagi.com",
+      "name": "Якутск",
+      "bindedCities": []
+    },
+    {
+      "id": 775,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "yalta",
+      "site": "yalta.etagi.com",
+      "name": "Ялта",
+      "bindedCities": []
+    },
+    {
+      "id": 26,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "yalutorovsk",
+      "site": "yalutorovsk.etagi.com",
+      "name": "Ялуторовск",
+      "bindedCities": []
+    },
+    {
+      "id": 259,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "yar",
+      "site": "yar.etagi.com",
+      "name": "Ярославль",
+      "bindedCities": []
+    },
+    {
+      "id": 2889,
+      "country": "Россия",
+      "country_id": 1,
+      "site_prefix": "yartsevo",
+      "site": "yartsevo.etagi.com",
+      "name": "Ярцево",
+      "bindedCities": []
+    }
+  ],
+  "method": "get",
+  "table": "plugin.etagi"
+}
